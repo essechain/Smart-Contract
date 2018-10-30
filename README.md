@@ -1,1 +1,2 @@
-# Essechain Smart-Contract Source Coude
+# Essechain Smart-Contract Source Code
+www.esschain.com
